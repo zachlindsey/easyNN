@@ -1,2 +1,8 @@
 This is some code I've written as a learning project to understand neural nets better. 
 Since learning the basics is the goal, performance is not.
+
+babyNN.py
+Contains the building blocks of the neural nets.
+
+linunit and MSE scorer test.ipynb
+A short notebook to check that linUnit and MSEScorer work correctly.
